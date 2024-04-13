@@ -29,4 +29,4 @@ Throughout the program, I engaged in the following tasks:
 ### 4. Presentation and Communication
 - Preparing a PowerPoint deck and video presentation to communicate key insights to the client and internal stakeholders.
 
-If you'd like to explore more about the **Accenture Data Analytics and Visualization Job Simulation**, you can visit the [official Forage page](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb). Additionally, you can check out my GitHub repository with the answers and solutions: [Accenture-Data-Analytics-Virtual-Program--FORAGE-Answers](https://github.com/Irshadanwar/Accenture-Data-Analytics-Virtual-Program-FORAGE-Answers).
+If you'd like to explore more about the **Accenture Data Analytics and Visualization Job Simulation**, you can visit the [official Forage page](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb).
